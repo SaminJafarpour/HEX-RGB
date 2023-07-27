@@ -1,0 +1,14 @@
+#hexColor{
+    width: 400px;
+    
+}
+#rgbColor{
+    width: 400px;
+}
+
+.topLabel{
+    margin-top: 100px;
+}
+.bottomLabel{
+    margin-top: 20px;
+}
